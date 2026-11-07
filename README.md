@@ -12,7 +12,7 @@
 
 ## 品質說明(請先讀)
 
-中文意思與例句是由 AI 離線產生,再經過自動驗證(義項數、簡體與大陸用語、例句用到該詞、振假名與原句一致、與系統分詞器交叉檢查)與獨立 AI 審查(全檢,約 4% 被回報問題並已修正或剔除)。**仍可能有誤**,不保證正確,使用前請自行判斷。45 個詞條沒有中文意思。
+中文意思與例句是以自動化流程離線產生,再經過自動驗證(義項數、簡體與大陸用語、例句用到該詞、振假名與原句一致、與系統分詞器交叉檢查)與獨立審查(全檢,約 4% 被回報問題並已修正或剔除)。**仍可能有誤**,不保證正確,使用前請自行判斷。45 個詞條沒有中文意思。
 
 ## 授權
 
@@ -22,6 +22,6 @@
 
 - **JMdict**:Copyright © Electronic Dictionary Research and Development Group (EDRDG),CC BY-SA 4.0。授權說明 <https://www.edrdg.org/edrdg/licence.html>,專案 <https://www.edrdg.org/>。取得自 jmdict-simplified(<https://github.com/scriptin/jmdict-simplified>),使用 `jmdict-eng-common-3.6.2+20261102210542`。本資料對 JMdict 的修改:篩選常用詞、整理格式、加上繁體中文意思與例句。
 - **JLPT 單字表**(單字與英文意思):Jonathan Waller,<https://www.tanos.co.uk/jlpt/>,CC BY。本資料加上了繁體中文意思、將讀音統一為平假名並重新排序、移除重複項目;這些修改不是原作者所為。JLPT 官方沒有公布單字表,此為坊間通用分級。
-- **例句**:部分例句來自 Tatoeba(<https://tatoeba.org>)貢獻者,CC BY 2.0 FR;已做篩選並將中文翻譯轉為繁體;其餘例句為 AI 產生(欄位 `來源` 為 `a`)。
+- **例句**:部分例句來自 Tatoeba(<https://tatoeba.org>)貢獻者,CC BY 2.0 FR;已做篩選並將中文翻譯轉為繁體;其餘例句為本專案撰寫並經審查(例句來源欄位為 `a`)。
 
 資料版本:建置日期見 `dictionary.dict` 第一行。JMdict 會持續更新,本資料會定期更新。
